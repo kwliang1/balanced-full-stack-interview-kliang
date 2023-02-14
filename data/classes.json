@@ -1,0 +1,186 @@
+[
+  {
+    "id": 0,
+    "title": "35 MIN STRENGTH TRAINING",
+    "description": "Let us have some fun!",
+    "scheduledDateTime": "2022-01-25T15:00:00.000Z",
+    "duration": 35,
+    "isLive": true,
+    "joinLink": "https://some-zoom-link",
+    "instructor": {
+      "name": "Annie McCarthy"
+    },
+    "metadata": {
+      "pace": {
+        "name": "slow"
+      },
+      "standingPreference": {
+        "name": "mat"
+      },
+      "type": {
+        "name": "strength"
+      }
+    }
+  },
+  {
+    "id": 1,
+    "title": "35 MIN YOGA TRAINING",
+    "description": "Let us have some fun!",
+    "scheduledDateTime": "2022-01-25T18:00:00.000Z",
+    "duration": 35,
+    "isLive": true,
+    "joinLink": "https://some-zoom-link",
+    "instructor": {
+      "name": "B.O. Bloom"
+    },
+    "metadata": {
+      "pace": {
+        "name": "slow"
+      },
+      "standingPreference": {
+        "name": "seated"
+      },
+      "type": {
+        "name": "flexibility_balance"
+      }
+    }
+  },
+  {
+    "id": 2,
+    "title": "60 MIN YOGA TRAINING",
+    "description": "Join us in testing our flexibility with this fast pace yoga class!",
+    "scheduledDateTime": "2022-01-25T19:00:00.000Z",
+    "duration": 35,
+    "isLive": true,
+    "joinLink": "https://some-zoom-link",
+    "instructor": {
+      "name": "Tony steve Rogers"
+    },
+    "metadata": {
+      "pace": {
+        "name": "fast"
+      },
+      "standingPreference": {
+        "name": "standing"
+      },
+      "type": {
+        "name": "flexibility_balance"
+      }
+    }
+  },
+  {
+    "id": 3,
+    "title": "60 MIN YOGA TRAINING (REPLAY)",
+    "description": "Join us in testing our flexibility with this fast pace yoga class!",
+    "scheduledDateTime": "2022-01-25T19:00:00.000Z",
+    "duration": 35,
+    "isLive": false,
+    "joinLink": "https://some-zoom-link",
+    "instructor": {
+      "name": "Peter Parker"
+    },
+    "metadata": {
+      "pace": {
+        "name": "fast"
+      },
+      "standingPreference": {
+        "name": "standing"
+      },
+      "type": {
+        "name": "flexibility_balance"
+      }
+    }
+  },
+  {
+    "id": 4,
+    "title": "60 MIN DANCE CARDIO",
+    "description": "Get up and to the dance floor with our dance cardio class",
+    "scheduledDateTime": "2022-01-26T15:00:00.000Z",
+    "duration": 35,
+    "isLive": true,
+    "joinLink": "https://some-zoom-link",
+    "instructor": {
+      "name": "tony o'stark"
+    },
+    "metadata": {
+      "pace": {
+        "name": "fast"
+      },
+      "standingPreference": {
+        "name": "standing"
+      },
+      "type": {
+        "name": "cardio"
+      }
+    }
+  },
+  {
+    "id": 5,
+    "title": "60 MIN YOGA TRAINING (REPLAY)",
+    "description": "Join us in testing our flexibility with this fast pace yoga class!",
+    "scheduledDateTime": "2022-01-26T12:00:00.000Z",
+    "duration": 35,
+    "isLive": true,
+    "joinLink": "https://some-zoom-link",
+    "instructor": {
+      "name": "Peter Parker"
+    },
+    "metadata": {
+      "pace": {
+        "name": "slow"
+      },
+      "standingPreference": {
+        "name": "seated"
+      },
+      "type": {
+        "name": "flexibility_balance"
+      }
+    }
+  },
+  {
+    "id": 6,
+    "title": "30 MIN DANCE CARDIO",
+    "description": "Get up and to the dance floor with our dance cardio class",
+    "scheduledDateTime": "2022-01-27T15:00:00.000Z",
+    "duration": 35,
+    "isLive": true,
+    "joinLink": "https://some-zoom-link",
+    "instructor": {
+      "name": "peter parker"
+    },
+    "metadata": {
+      "pace": {
+        "name": "fast"
+      },
+      "standingPreference": {
+        "name": "standing"
+      },
+      "type": {
+        "name": "cardio"
+      }
+    }
+  },
+  {
+    "id": 7,
+    "title": "60 MIN STRENGTH",
+    "description": "Build up your strength with Captin America",
+    "scheduledDateTime": "2022-01-28T15:00:00.000Z",
+    "duration": 60,
+    "isLive": true,
+    "joinLink": "https://some-zoom-link",
+    "instructor": {
+      "name": "Steve Rogers"
+    },
+    "metadata": {
+      "pace": {
+        "name": "fast"
+      },
+      "standingPreference": {
+        "name": "standing"
+      },
+      "type": {
+        "name": "strength"
+      }
+    }
+  }
+]
